@@ -31,3 +31,6 @@ break
 except
 in
 raise
+
+function
+function
